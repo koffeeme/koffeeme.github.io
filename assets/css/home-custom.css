@@ -14,8 +14,8 @@
   background-attachment: fixed;
   transform: scale(1.1);
   -webkit-transform: scale(1.1);
-  filter: blur(2px);
-  -webkit-filter: blur(2px);
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
   background-size: cover;
 }
 
@@ -26,8 +26,8 @@
 }
 
 .home img {
-  width: 148px;
-  height: 148px;
+  width: 200px;
+  height: 200px;
   padding: 5px;
   margin-bottom: 10px;
 }
